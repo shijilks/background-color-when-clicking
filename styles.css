@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  #colorBox {
+    width: 500px;
+    height: 300px;
+    background-color: #3498db; /* Initial background color */
+    cursor: pointer;
+  }
